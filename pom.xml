@@ -39,7 +39,6 @@
 				      <environment>${env}</environment>
 				      <workers>${workers}</workers>
 				      <workerType>${vCore}</workerType>
-				      <objectstoreV2>true</objectstoreV2>
 				    </cloudHubDeployment>
 				  </configuration>
 			</plugin>
